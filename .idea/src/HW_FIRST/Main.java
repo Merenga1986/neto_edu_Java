@@ -3,8 +3,10 @@ package HW_FIRST;
 public class Main {
     public static void main(String[] args) {
 
+
         // Задание 1
         System.out.println("Repinin Maksim");
+
 
         // Задание 2
         int income;
