@@ -1,4 +1,4 @@
-package binsearch;
+package algo.binsearch;
 
 
 public class Main {
