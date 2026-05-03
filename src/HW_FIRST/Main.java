@@ -1,4 +1,4 @@
-package HW_FIRST;
+package src.HW_FIRST;
 
 public class Main {
     public static void main(String[] args) {
