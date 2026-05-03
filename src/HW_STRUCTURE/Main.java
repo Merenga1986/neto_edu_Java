@@ -1,8 +1,9 @@
-package src.HW_STRUCTURE;
+package HW_STRUCTURE;
 
 import java.util.Scanner;
+import static HW_STRUCTURE.CustomsService.calcDuty;
 // тут немного отошел от задания, не стал создавать пакеты ru.netology.service, прошу отнестись с пониманием
-import src.HW_STRUCTURE.CustomsService;
+
 
 public class Main {
 

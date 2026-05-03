@@ -1,4 +1,4 @@
-package src.algo.binsearch;
+package algo.binsearch;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package src.HW_STRUCTURE;
+package HW_STRUCTURE;
 
 public class CustomsService {
 
