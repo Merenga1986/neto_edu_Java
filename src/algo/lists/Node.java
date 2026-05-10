@@ -1,4 +1,4 @@
-package algo.dinarray;
+package algo.lists;
 
 public class Node {
     private int value;

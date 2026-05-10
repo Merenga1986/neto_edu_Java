@@ -1,4 +1,4 @@
-package algo.dinarray;
+package algo.lists;
 
 public class LinkedStack {
     private Node tail; // ссылка на последний добавленный узел (обёртку)
