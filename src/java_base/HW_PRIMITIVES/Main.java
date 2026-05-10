@@ -1,4 +1,4 @@
-package HW_PRIMITIVES;
+package java_base.HW_PRIMITIVES;
 
 import java.util.Scanner;
 

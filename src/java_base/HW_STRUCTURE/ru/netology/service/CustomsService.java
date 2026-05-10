@@ -1,4 +1,4 @@
-package HW_STRUCTURE.ru.netology.service;
+package java_base.HW_STRUCTURE.ru.netology.service;
 
 public class CustomsService {
 

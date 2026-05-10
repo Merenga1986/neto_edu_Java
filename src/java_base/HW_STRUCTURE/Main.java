@@ -1,7 +1,7 @@
-package HW_STRUCTURE;
+package java_base.HW_STRUCTURE;
 
 import java.util.Scanner;
-import static HW_STRUCTURE.ru.netology.service.CustomsService.calcDuty;
+import static java_base.HW_STRUCTURE.ru.netology.service.CustomsService.calcDuty;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package HW_COND;
+package java_base.HW_COND;
 
 import java.util.Scanner;
 // не стал выносить проверку в отдельный класс-метод, т.к. на мой взгляд это избыточно
