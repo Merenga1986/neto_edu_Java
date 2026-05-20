@@ -8,8 +8,8 @@ public class Main {
     public static void main(String[] args) throws IOException {
         String source = "CACABABABCCCAABAC";
 
-        System.out.println(hasRepeats(source, 4)); // true
-        System.out.println(hasRepeats(source, 5)); // false
+        System.out.println(hasRepeats(source, 4)); // true,
+        System.out.println(hasRepeats(source, 5)); // false,
     }
 
     public static boolean hasRepeats(String source, int size) {

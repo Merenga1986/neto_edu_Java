@@ -12,7 +12,7 @@ public class LazyString {
         this.start = start;
         this.end = end;
 
-        // Считаем хеш как сумму кодов символов подстроки — O(n)
+        // Считаем хеш как сумму кодов символов подстроки — O(n),
         for (int i = start; i < end; i++) {
             hash += source.charAt(i);
         }
